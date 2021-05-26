@@ -22,5 +22,20 @@ body {
 
 .centered-image {
   width: 100%;
+  display: block;
   height: fit-content;
+}
+.my-class {
+  border: 2px solid rgb(185, 100, 44);
+  padding: 10px;
+  background-color: rgb(23, 132, 196);
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box;
+  float:right;
+}
+.txt-class{
+  min-width: fit-content;
 }
