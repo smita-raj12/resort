@@ -39,3 +39,8 @@ body {
 .txt-class{
   min-width: fit-content;
 }
+.my-span{
+  float: center;
+  font-style: italic;
+  font-size: xx-large;
+}
