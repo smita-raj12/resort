@@ -1,12 +1,18 @@
 h1{
   font-size: x-large;
   color: red;
+  text-align: center;
 }
 ul{
    line-height:normal;
+   font-size: medium;
 }
 body {
   background-color: skyblue;
+}
+
+.s1{
+   float: inline-end;
 }
 
 
