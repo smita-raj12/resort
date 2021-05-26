@@ -15,4 +15,12 @@ body {
    float: inline-end;
 }
 
+.p1{
+  text-align-last: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
+.centered-image {
+  width: 100%;
+  height: fit-content;
+}
