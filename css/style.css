@@ -5,14 +5,8 @@ h1{
 body {
   background-color: skyblue;
 }
-/*img{
-  size: 30px;
-  padding: 7px;
-}*/
-p{
-  font-size: large ;
-  font-style: oblique;
-}
+
+
 ul{
    line-height:normal;
 }
